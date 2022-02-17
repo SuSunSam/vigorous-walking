@@ -1,0 +1,12 @@
+
+.add-member-buttn button{
+  margin-right: 20px;
+}
+.add-member-buttn {
+  display: flex;
+}
+
+.member-management-title{
+  display: flex;
+  justify-content: space-between;
+}
